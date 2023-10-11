@@ -21,6 +21,12 @@ function TahminEt() {
         hak++
     } else {
         text.innerHTML = 'Kazandin!!! ' + hak + ' kere yanlis tahminde bulundun'
+        
+
     }
+}
+
+function Yenile() {
+    window.location.reload()
 }
 
